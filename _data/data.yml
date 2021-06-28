@@ -7,13 +7,13 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Manuel Alexander Acosta Guerrero # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: mamanuelma@gmail.com #name@brightcoders.com
+  phone: +573223606233
   website: # No agregar http://
   linkedin: brightcoders
   github: brightcoders
@@ -32,8 +32,8 @@ sidebar:
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
+    - idiom: #German
+      level: #Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
